@@ -40,7 +40,7 @@ public class Restauracja {
 
     private final String url = "jdbc:postgresql://localhost:5454/restauracje";
     private final String user = "postgres";
-    private final String password = "Bulka191";
+    private final String password = "";
 
     private ArrayList<Restauracja> restauracje = new ArrayList<>();
 

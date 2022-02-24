@@ -8,7 +8,7 @@
         <session-factory>
             <property name="connection.url">jdbc:postgresql://localhost:5454/restauracje</property>
             <property name="connection.username">postgres</property>
-            <property name="connection.password">Bulka191</property>
+            <property name="connection.password"></property>
             <property name="dialect">org.hibernate.dialect.PostgreSQLDialect</property>
         </session-factory>
 
